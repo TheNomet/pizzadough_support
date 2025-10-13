@@ -43,7 +43,7 @@ Use these URLs in App Store Connect:
 
 ### Update Contact Information
 Edit the email addresses in both HTML files:
-- Change `support@pizzadough.app` to your actual support email
+- Change `pizzadough.app@gmail.com` to your actual support email
 - Update any other contact information as needed
 
 ### Add Your App Store Link
